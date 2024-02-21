@@ -5,7 +5,7 @@ export U1, U2, U3
 
 using Configurations
 using IBMQClient.Schema
-using YaoBlocks
+using Yao
 
 include("qobj.jl")
 include("qbir.jl")
